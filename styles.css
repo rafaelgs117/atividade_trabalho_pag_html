@@ -23,7 +23,7 @@ body {
 /* ===== Botões (botão normal e do WhatsApp) ===== */
 button,
 a.button {
-    display: inline-block;
+    display: inline-block;  /* Permite o botão ocupar seu próprio espaço */
     padding: 10px 20px;
     font-size: 16px;
     margin-top: 20px;
@@ -35,9 +35,7 @@ a.button {
     text-decoration: none;
     transition: background-color 0.3s;
     text-align: center;
-}
 
-.container a.button {
     margin-left: auto;
     margin-right: auto;
 }
