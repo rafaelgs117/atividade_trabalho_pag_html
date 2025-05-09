@@ -34,6 +34,12 @@ a.button {
     color: #ffffff;
     text-decoration: none;
     transition: background-color 0.3s;
+    text-align: center;
+}
+
+.container a.button {
+    margin-left: auto;
+    margin-right: auto;
 }
 
 button:hover,
