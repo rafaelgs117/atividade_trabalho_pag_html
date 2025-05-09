@@ -52,7 +52,14 @@ a.button:hover {
         margin: 20px;
         padding: 15px;
     }
-
+    
+    img {
+        
+        width: 100%;
+        height: auto;
+    
+    }
+    
     h1 {
         font-size: 1.5rem;
     }
